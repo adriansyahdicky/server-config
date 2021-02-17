@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: danafix-communication
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://ec2-54-237-135-248.compute-1.amazonaws.com:5432/df479tcb9hgb6n
+    username: izrffyemdbpqtu
+    password: f23d5b38b7ca5654f05df1c89c822d915934327912703dc7d58e62d01cbe32ee
+  jpa:
+    show-sql: true
