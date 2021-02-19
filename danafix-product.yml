@@ -1,6 +1,6 @@
 spring:
   application:
-    name: danafix-communication
+    name: danafix-product
   datasource:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://ec2-54-237-135-248.compute-1.amazonaws.com:5432/df479tcb9hgb6n
