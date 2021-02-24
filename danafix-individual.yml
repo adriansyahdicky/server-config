@@ -12,7 +12,7 @@ spring:
     host: smtp.mandrillapp.com
     port: 587
     username: KSP Rangkul Teman Jakarta
-    password: LuScOuu8CacrHmTPWJ7d5NYYGnilrtwV8kxpT22GW5I=
+    password: _I-GbdckhOBZBYgfnlMNMA
     from: KSP Rangkulteman <noreply@rangkulteman.id>
     reply-to: noreply@rangkulteman.id
     protocol: smtp
