@@ -8,3 +8,18 @@ spring:
     password: f23d5b38b7ca5654f05df1c89c822d915934327912703dc7d58e62d01cbe32ee
   jpa:
     show-sql: true
+  mail:
+    host: smtp.mandrillapp.com
+    port: 587
+    username: KSP Rangkul Teman Jakarta
+    password: LuScOuu8CacrHmTPWJ7d5NYYGnilrtwV8kxpT22GW5I=
+    from: KSP Rangkulteman <noreply@rangkulteman.id>
+    reply-to: noreply@rangkulteman.id
+    protocol: smtp
+    properties:
+      mail:
+        transport:
+          protocol: smtp
+        debug: false
+        smtp:
+          auth: true
