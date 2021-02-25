@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: danafix-digital-signature
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: dicky123
+  jpa:
+    show-sql: true
