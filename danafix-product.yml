@@ -7,4 +7,4 @@ spring:
     username: postgres
     password: dicky123
   jpa:
-    show-sql: true
+    show-sql: false
