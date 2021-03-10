@@ -5,6 +5,6 @@ spring:
     driverClassName: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: dicky123
+    password: root
   jpa:
     show-sql: true
